@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Card
+  m_EditorClassIdentifier: 
+  m_GroupName: Card
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5a07b85b9468811409d38f288fad9158
+  m_SerializeEntries:
+  - m_GUID: f84ddda06724a0240b7501900a08c008
+    m_Address: Defend
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9341a7fa600f4164c9128871490152f5
+    m_Address: Glove
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0a2c5e3bbd03e540b8707f318bd883b
+    m_Address: Attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 482e0283c13420340b6e82b69aa938e2
+    m_Address: Apple
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3142182948a315b4c8fbe90812ffb88c
+    m_Address: Sleep
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa3ef5dfa5b0c3e41af50d6cc11c536e
+    m_Address: DrawCard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b791136a21e351043966f98aa7a8c22b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 692bd55c0bfcc5242a55a0bbeb21ce75, type: 2}
+    - {fileID: 11400000, guid: e795d2682661a234faf7bc190f075d0c, type: 2}

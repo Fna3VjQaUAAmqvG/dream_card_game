@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 444f99ee468db7b4ebcaaa781d0bd001
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mapConfig: {fileID: 11400000, guid: 20d82e971a862024c83f4a901c5c9bac, type: 2}
+  - mapLayout: {fileID: 11400000, guid: fb1a0f88091654e439029cb31fe2e936, type: 2}
+  - roomPrefab: {fileID: 3437543004155802715, guid: 3e0b25aafd390424b90ec5d716295615, type: 3}
+  - linePrefab: {fileID: 1646570617139201114, guid: 24cee17267d94594eabf841ebe74fd35, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

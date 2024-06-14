@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a2e10ef2f906c94288f11df04d858cf, type: 3}
+  m_Name: Sleep
+  m_EditorClassIdentifier: 
+  cardName: Sleep
+  cardImage: {fileID: 21300000, guid: e6b241e893089a444ada2b7be8ed5f7b, type: 3}
+  cost: 1
+  cardType: 0
+  description: Attack, reduce target's attack power<color="yellow">50%</color>
+  effects:
+  - {fileID: 11400000, guid: 5116141e8d33e584c85783200c4543f0, type: 2}
+  - {fileID: 11400000, guid: 2f6d1e3ff29e4094996c3c65458f2e85, type: 2}

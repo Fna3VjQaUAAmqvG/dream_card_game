@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a2e10ef2f906c94288f11df04d858cf, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  cardName: Apple
+  cardImage: {fileID: 21300000, guid: 4ed6710b3d55b2f4692172e012eb2c49, type: 3}
+  cost: 0
+  cardType: 2
+  description: Heal <color="white">20</color> health
+  effects:
+  - {fileID: 11400000, guid: a682622d66a23ab41a64cd6583bd665e, type: 2}
